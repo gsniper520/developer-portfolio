@@ -101,7 +101,9 @@ main{
     padding: 120px;
     border-radius: 10px;
     background: #FFF8F3;
+    border: 5px solid tomato;
     margin: 130px 0;
+
 }
 .about-info-container{
     display: flex;
@@ -109,4 +111,7 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-discription{
+    padding: 30px 150px;
 }
